@@ -1,3 +1,3 @@
-# This repository contains :-
+## This repository contains :-
 - a React Image Gallery
 - a Todo Application
