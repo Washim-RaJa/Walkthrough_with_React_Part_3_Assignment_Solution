@@ -1,0 +1,14 @@
+.image-wrapper{
+    width: 275px;
+    height: 205px;
+    border-radius: 15px;
+}
+
+.image-wrapper:hover{
+    box-shadow: 0px 4px 10px 4px #4381e4;
+}
+
+.image-wrapper>img{
+    width: 100%;
+    border-radius: 15px;
+}

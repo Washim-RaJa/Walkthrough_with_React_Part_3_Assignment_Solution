@@ -1,0 +1,49 @@
+.imageList-container{
+    height: 1205px;
+    padding: 0 0 35px 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.imageList-container>h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    position: fixed;
+    left: 35%;
+    bottom: 200px;
+}
+
+.imageList-wrapper{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 27px;
+    padding: 8px 15px 25px 15px;
+    background: transparent;
+    font-family: sans-serif;
+    color: beige;
+}
+
+.button-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 27px;
+}
+
+.button-wrapper>button{
+    padding: 12px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+}
+
+.button-wrapper>button:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 4px 1px #4381e4;
+}
