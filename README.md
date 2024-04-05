@@ -1,1 +1,3 @@
-# Walkthrough_with_React_Part_3_Assignment_Solution
+# This repository contains :-
+- a React Image Gallery
+- a Todo Application
